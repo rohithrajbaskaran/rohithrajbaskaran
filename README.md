@@ -8,7 +8,7 @@ Computer Science Student | Wannabe Software Wizard
 About Me:
 I'm Rohithraj Baskaran, a curious and slightly caffeine-fueled Computer Science student who loves turning ideas into code! Whether it's building web apps, solving complex problems, or dabbling in cool new tech, I’m all in. Right now, I'm hunting for a software engineering internship where I can learn, grow, and, of course, crush some code bugs.
 
-Tech Stacks 💻
+Tech Stack  💻
 -------------
 
 🎓 Studying: Computer Science @ Ryerson University (Graduating in April 2025)
