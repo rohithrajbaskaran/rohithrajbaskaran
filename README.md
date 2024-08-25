@@ -1,4 +1,7 @@
-Hey there! I'm Rohithraj Baskaran 👋
+Hey there! 
+
+I'm Rohithraj Baskaran 👋
+
 Computer Science Student | Wannabe Software Wizard
 
 About Me:
