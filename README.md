@@ -9,6 +9,7 @@ I'm Rohithraj Baskaran, a curious and slightly caffeine-fueled Computer Science 
 
 🎓 Studying: Computer Science @ Ryerson University (Graduating in April 2025)
 🌍 Location: Toronto, Canada
+
 💻 Languages I Speak Fluently (Code-wise): Python, Java, HTML, CSS, Javascript, SQL, C++, Bash, Haskell, Rust, Elixir
 🛠️ My Toolkit: JQuery, React, Node.js, Express, PostgrSQL, SpringBoot Git, Github,  etc.
 🕹️ Fun Stuff I Do: Hackathons, Gaming, Anime and Binge-watching what if videos in Youtube.
