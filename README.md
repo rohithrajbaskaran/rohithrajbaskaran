@@ -9,7 +9,6 @@ I'm Rohithraj Baskaran, a curious and slightly caffeine-fueled Computer Science 
 💻 Languages I Speak Fluently (Code-wise): Python, Java, HTML, CSS, Javascript, SQL, C++, Bash, Haskell, Rust, Elixir
 🛠️ My Toolkit: JQuery, React, Node.js, Express, PostgrSQL, SpringBoot Git, Github,  etc.
 🕹️ Fun Stuff I Do: Hackathons, Gaming, Anime and Binge-watching what if videos in Youtube.
-My Skills:
 
 <!---
 rohithrajbaskaran/rohithrajbaskaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
