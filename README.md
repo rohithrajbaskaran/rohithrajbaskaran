@@ -22,7 +22,7 @@ Technologies  💻
 * Languages I Speak Fluently (Code-wise): Python, Java, HTML, CSS, Javascript, SQL, C++, Bash, Haskell, Rust, Elixir
 * Frontend: React, HTML, CSS
 * Backend: Node, Express, Postgres, SpringBoot
-* Version Control: Git master
+* Version Control: Git and GitHub
 
 Contact me
 ------
