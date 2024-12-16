@@ -19,10 +19,10 @@ About me 🙋‍♂️
 Technologies  💻
 -------------
 
-* Languages I Speak Fluently (Code-wise): Python, Java, HTML, CSS, Javascript, SQL, C++, Bash, Haskell, Rust, Elixir
-* Frontend: React, HTML, CSS
-* Backend: Node, Express, Postgres, SpringBoot
-* Version Control: Git and GitHub
+* Programming Languages: Python, Java, JavaScript, SQL, NoSQL, C++, Bash, Haskell, Rust, Elixir
+* Frameworks & Libraries: React, Redux, SASS, Redis, Docker, GraphQL, RESTAPIs, Jest, Enzyme, Cypress
+* Databases & Backend: Node.js, Express.js, Supabase, SpringBoot, PostgreSQL, MongoDB, JWT, OAuth2.0
+* Tools: Version control, Figma, Linux Command Line, Microsoft 360
 
 Contact me
 ------
