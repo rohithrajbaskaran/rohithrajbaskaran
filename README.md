@@ -11,7 +11,7 @@ I'm **Rohithraj Baskaran**
 
 Hi! I’m Rohithraj — a curious, caffeine-powered Computer Science student who’s passionate about building cool things with code. I enjoy solving real-world problems, exploring emerging tech, and always aim to write clean, scalable software.
 
-Right now, I’m actively looking for **software engineering internships** where I can learn, contribute, and grow as a developer (while crushing some bugs along the way 🐞).
+Right now, I’m actively looking for **software engineering roles** where I can learn, contribute, and grow as a developer (while crushing some bugs along the way 🐞).
 
 ---
 
