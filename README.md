@@ -1,40 +1,54 @@
-Hey there! 👋
------------
+# Hey there! 👋  
+I'm **Rohithraj Baskaran**
 
-I'm Rohithraj Baskaran 
+🎓 Computer Science Student @ Toronto Metropolitan University (Graduating April 2025)  
+💡 Aspiring Software Engineer | Code Wizard in Training | Innovation Enthusiast  
+📍 Based in Toronto, Canada
 
-Computer Science Student | Wannabe Software Wizard
+---
 
-I'm Rohithraj Baskaran, a curious and slightly caffeine-fueled Computer Science student who loves turning ideas into code! Whether it's building web apps, solving complex problems, or dabbling in cool new tech, I’m all in. Right now, I'm hunting for a software engineering internship where I can learn, grow, and, of course, crush some code bugs.
+## 👨‍💻 About Me
 
-About me 🙋‍♂️
--------
+Hi! I’m Rohithraj — a curious, caffeine-powered Computer Science student who’s passionate about building cool things with code. I enjoy solving real-world problems, exploring emerging tech, and always aim to write clean, scalable software.
 
-🏫 Studying: Computer Science @ Ryerson University (Graduating in April 2025)
+Right now, I’m actively looking for **software engineering internships** where I can learn, contribute, and grow as a developer (while crushing some bugs along the way 🐞).
 
-📍 Location: Toronto, Canada
+---
 
-🕹️ Fun Stuff I Do: Hackathons, Gaming, Anime and Binge-watching what if videos in Youtube.
+## 🧠 What I Know
 
-Technologies  💻
--------------
+### 🖥️ Programming Languages  
+`Python` • `Java` • `JavaScript` • `SQL` • `NoSQL` • `C++` • `Bash` • `Haskell` • `Rust` • `Elixir`
 
-* Programming Languages: Python, Java, JavaScript, SQL, NoSQL, C++, Bash, Haskell, Rust, Elixir
-* Frameworks & Libraries: React, Redux, SASS, Redis, Docker, GraphQL, RESTAPIs, Jest, Enzyme, Cypress
-* Databases & Backend: Node.js, Express.js, Supabase, SpringBoot, PostgreSQL, MongoDB, JWT, OAuth2.0
-* Tools: Version control, Figma, Linux Command Line, Microsoft 360
+### ⚙️ Frameworks & Libraries  
+`React` • `Redux` • `SASS` • `GraphQL` • `Docker` • `Redis` • `Jest` • `Enzyme` • `Cypress` • `REST APIs`
 
-Contact me
-------
+### 🔧 Backend & Databases  
+`Node.js` • `Express.js` • `Supabase` • `Spring Boot` • `PostgreSQL` • `MongoDB` • `JWT` • `OAuth 2.0`
 
-⛓️ [Linkedin](https://www.linkedin.com/in/rohithraj-baskaran-89029820b/)
+### 🛠️ Tools & Platforms  
+`Git & GitHub` • `Figma` • `Linux CLI` • `VS Code` • `Microsoft 365`
 
-📸 [Portfolio](https://rohithrajbaskaranportfolio.vercel.app)
+---
 
-📩 baskaranrohithraj@gmail.com
+## 🎮 Outside the Code
 
+When I’m not building apps or solving bugs, you’ll probably find me:
 
-<!---
-rohithrajbaskaran/rohithrajbaskaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Competing in **hackathons**  
+- Getting carried in **multiplayer games**  
+- Watching **anime** or bingeing **"What If" theories on YouTube**  
+- Brainstorming the next **side project or startup idea**
+
+---
+
+## 📬 Let’s Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rohithraj-baskaran-89029820b/)
+- 🌐 [Portfolio](https://rohithrajbaskaranportfolio.vercel.app)
+- 📧 baskaranrohithraj@gmail.com
+
+---
+
+_Thanks for stopping by! If you like what you see, let’s connect — or even better, let’s build something together._ 🚀
+
