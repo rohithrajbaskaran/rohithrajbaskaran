@@ -29,7 +29,7 @@ Contact me
 
 ⛓️ https://www.linkedin.com/in/rohithraj-baskaran-89029820b/
 
-📸 https://www.instagram.com/rohithr.b/
+📸 [https://www.instagram.com/rohithr.b/](https://rohithrajbaskaranportfolio.vercel.app)
 
 📩 baskaranrohithraj@gmail.com
 
