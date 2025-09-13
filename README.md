@@ -9,7 +9,7 @@ I'm **Rohithraj Baskaran**
 
 ## 👨‍💻 About Me
 
-Hi! I’m Rohithraj — a curious, caffeine-powered Computer Science student who’s passionate about building cool things with code. I enjoy solving real-world problems, exploring emerging tech, and always aim to write clean, scalable software.
+Hi! I’m Rohithraj, a curious, caffeine powered Computer Science student who’s passionate about building cool things with code. I enjoy solving real-world problems, exploring emerging tech, and always aim to write clean, scalable software.
 
 Right now, I’m actively looking for **software engineering roles** where I can learn, contribute, and grow as a developer (while crushing some bugs along the way 🐞).
 
@@ -50,5 +50,5 @@ When I’m not building apps or solving bugs, you’ll probably find me:
 
 ---
 
-_Thanks for stopping by! If you like what you see, let’s connect — or even better, let’s build something together._ 🚀
+_Thanks for stopping by! If you like what you see, let’s connect or even better, let’s build something together._ 🚀
 
