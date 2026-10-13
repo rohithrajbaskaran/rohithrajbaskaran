@@ -23,56 +23,15 @@ In my engineering roles, I worked on the build side of IT controls: deploying re
 - **Frameworks in practice:** I map controls to COBIT 2019 and NIST CSF 2.0, and align AI governance with the NIST AI RMF
 - **Audit automation:** I'm building Python and pandas tests that check full populations of access and change records, not samples
 
-## Featured project
-
-### [ITGC Audit Agent](https://github.com/rohithrajbaskaran/itgc-audit-agent)
-
-![Status: in development][badge-status]
-![Python][badge-python]
-![LangGraph][badge-langgraph]
-![Claude API][badge-claude]
-![pandas][badge-pandas]
-![Streamlit][badge-streamlit]
-
-An AI-powered, multi-agent system for automating IT general controls (ITGC) testing, from evidence collection to audit-ready findings. It's designed to test 100% of the population instead of a sample, and a human auditor approves every finding before it's final.
-
-| Control tested | SOX ITGC domain | COBIT&nbsp;2019 | NIST&nbsp;CSF&nbsp;2.0 |
-| :-- | :-- | :-- | :-- |
-| `AC-01` Access for terminated users is removed promptly | Access to programs and data | DSS05.04 | PR.AA-01 |
-| `AC-02` MFA is enforced on active accounts | Access to programs and data | DSS05.04 | PR.AA-03 |
-| `CM-01` Production deployments link to an approved change ticket | Program changes | BAI06.01 | PR.PS-01 |
-| `CM-02` Requesters can't approve their own changes | Program changes | BAI06.01 | PR.AA-05 |
-
-**Workflow:** `Evidence Collector` → `Control Tester` → `Framework Mapper` → `Reporter` → `Human review`
-
-- **Exact where it counts:** deterministic code does the record matching, and AI handles only judgment and writing
-- **Audit-ready findings:** drafted in Condition, Criteria, Cause, Effect, and Recommendation format
-- **Governed AI:** every agent action and human decision is logged, with controls aligned to the NIST AI RMF
-
-## More projects
+## Projects
 
 | Project | What it does | Built with |
 | :-- | :-- | :-- |
+| [ITGC Audit Agent](https://github.com/rohithrajbaskaran/itgc-audit-agent) | Multi-agent AI system that automates IT general controls testing for access and change management, maps findings to COBIT 2019 and NIST CSF 2.0, and keeps a human auditor in the loop | Python, LangGraph, Claude API, pandas, Streamlit |
 | [RAG Pipeline for IT Incident Resolution](https://github.com/rohithrajbaskaran/incident-resolution) | Matches new IT incidents to past ones using vector embeddings and cosine similarity, and returns the closest match with a confidence score | all-MiniLM-L6-v2, React, Node.js, Express, MongoDB |
+| [Job Application Autofiller](https://github.com/rohithrajbaskaran/job_application_autofiller) | Chrome extension that detects and fills job application forms using 25+ field-matching rules, cutting entry time from minutes to seconds | JavaScript, Chrome Extension (Manifest V3), DOM APIs |
 | [Log Analyzer](https://github.com/rohithrajbaskaran/logAnalyzer) | Analyzes Apache and Nginx access logs | Bash |
 
-## Experience
-
-### Software Engineer (Application Engineer) · Plutus Consultancy
-<sub>Sep 2025 – Dec 2025 &nbsp;·&nbsp; Python, Flask, PostgreSQL, pgvector, React, Linux</sub>
-
-- Shipped an AI-powered semantic search platform with vector similarity search over PostgreSQL/pgvector, cutting incident search time by 20%+
-- Automated data ingestion and ETL workflows in Python, cutting manual processing by 60% and improving data integrity across services
-- Owned configuration, release deployment, troubleshooting, and monitoring for cloud-hosted applications on Linux servers
-- Worked with 3+ cross-functional teams in an Agile/Scrum environment to ship features and resolve production defects
-
-### Software Engineering Intern, Quality Engineering · EatMe Global
-<sub>Jun 2019 – Sep 2019 &nbsp;·&nbsp; JavaScript, Java, Cypress, JUnit, Enzyme, Redis</sub>
-
-- Built automated regression and integration test suites that reached 92% code coverage and cut post-release defects by 25%
-- Translated functional requirements into test scenarios across functional, integration, and UAT testing
-- Validated JWT authentication, Redis caching, and REST/GraphQL API integrations for secure, low-latency workflows
-- Triaged and root-caused defects with engineering leads to support release readiness
 
 ## Toolkit
 
@@ -92,16 +51,17 @@ An AI-powered, multi-agent system for automating IT general controls (ITGC) test
 
 **AWS Certified Cloud Practitioner** · Amazon Web Services · May 2025
 
+**Security+** · CompTIA · May 2026
+
 <!-- Links -->
 [linkedin]: https://www.linkedin.com/in/rohithraj-baskaran-89029820b/
-[portfolio]: https://rohithrajbaskaran.github.io/QA_portfolio/
+[portfolio]: https://rohithrajbaskaran.github.io/portfolio/
 [email]: mailto:baskaranrohithraj@gmail.com
 
 <!-- Badges (shields.io). Edit the text or hex color in a URL to change a badge. -->
 [badge-linkedin]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQgMjAuNUgxN3YtNS42YzAtMS4zIDAtMy0xLjktM3MtMiAxLjQtMiAyLjl2NS43SDkuM1Y5aDMuNHYxLjZjLjUtMSAxLjYtMS45IDMuNC0xLjkgMy42IDAgNC4yIDIuNCA0LjIgNS41em0tMTUtMTNhMiAyIDAgMSAxIDAtNC4yIDIgMiAwIDAgMSAwIDQuMW0xLjcgMTNIMy42VjlIN3pNMjIuMiAwSDEuOFEuMi4yIDAgMS43djIwLjZxLjIgMS42IDEuOCAxLjdoMjAuNHExLjYtLjIgMS44LTEuN1YxLjdRMjMuOC4xIDIyLjIgMCIvPjwvc3ZnPg==
 [badge-portfolio]: https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmYiIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZD0iTTggMGE4IDggMCAxIDEgMCAxNkE4IDggMCAwIDEgOCAwTTUuNzggOC43NWExMCAxMCAwIDAgMCAxLjM2IDQuMThxLjQuNjMuODYgMS4yMS4zOS0uNDUuODYtMS4yMWExMCAxMCAwIDAgMCAxLjM2LTQuMThabTQuNDQtMS41YTEwIDEwIDAgMCAwLTEuMzYtNC4xOFE4LjM5IDIuMzEgOCAxLjg2YTEwIDEwIDAgMCAwLS44NiAxLjIxIDEwIDEwIDAgMCAwLTEuMzYgNC4xOFptLTUuOTQgMS41SDEuNTRhNi41IDYuNSAwIDAgMCA0LjY3IDUuNSAxMS40IDExLjQgMCAwIDEtMS45My01LjVtLTIuNzQtMS41aDIuNzRhMTEgMTEgMCAwIDEgMS45My01LjUgNi41IDYuNSAwIDAgMC00LjY3IDUuNW0xMC4xOCAxLjVhMTEgMTEgMCAwIDEtMS45MyA1LjUgNi41IDYuNSAwIDAgMCA0LjY3LTUuNVptMi43NC0xLjVhNi41IDYuNSAwIDAgMC00LjY3LTUuNWwuMzUuNTVjLjcyIDEuMiAxLjQ0IDIuODggMS41OCA0Ljk1WiIvPjwvc3ZnPg==
 [badge-email]: https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-[badge-status]: https://img.shields.io/badge/status-in_development-F59E0B?style=flat-square
 [badge-sox]: https://img.shields.io/badge/SOX_ITGC-1E3A5F?style=flat-square
 [badge-cobit]: https://img.shields.io/badge/COBIT_2019-1E3A5F?style=flat-square
 [badge-csf]: https://img.shields.io/badge/NIST_CSF_2.0-1E3A5F?style=flat-square
@@ -134,5 +94,5 @@ An AI-powered, multi-agent system for automating IT general controls (ITGC) test
 [badge-nodejs]: https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white
 [badge-flask]: https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white
 [badge-graphql]: https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white
- better, let’s build something together._ 🚀
+
 
